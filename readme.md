@@ -16,7 +16,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   </p>
   
 <br />
-
+<div align="left">
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 
